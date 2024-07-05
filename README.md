@@ -3,7 +3,7 @@
 > 개발기간: 24.05.20~24.06.14(4주)
 
 # 배포 주소
-mytrophy.site
+http://mytrophy.site
 
 # 프로젝트 소개
 1. 스팀 에서 제공하는 API 활용 (https://steamapi.xpaw.me/)
